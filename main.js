@@ -47,7 +47,7 @@ const sendEmail = (e) => {
   e.preventDefault();
   emailjs
     .sendForm(
-      "skill_tfne5zy",
+      "service_tfne5zy",
       "template_zp9u6mc",
       "#contact-form",
       "JeWfT7SNwvnSAQBpx",
